@@ -19,7 +19,7 @@
 }
 
 .nav__notification {
-  background-color: tomato;
+  /* background-color: tomato;
   width: 20px;
   height: 20px;
   border-radius: 50%;
@@ -27,13 +27,13 @@
   justify-content: center;
   align-items: center;
   color: white;
-  font-weight: 600;
+  font-weight: 600; */
   position: absolute;
   left: 20px;
   bottom: 20px;
 }
 
-.nav__ellipsis {
+.nav__more {
   background-color: tomato;
   width: 5px;
   height: 5px;
