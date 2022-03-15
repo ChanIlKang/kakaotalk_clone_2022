@@ -9,9 +9,11 @@
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
+
 /*Screens*/
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 body {
   color: #2e363e;
@@ -36,6 +38,6 @@ body {
   opacity: 0.7;
 }
 
-.main-screen {
+.main__screen {
   padding: 0px var(--horizontal-space);
 }
