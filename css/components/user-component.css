@@ -37,6 +37,12 @@
   font-size: 17px;
 }
 
+.user-component__subtitle i {
+  color: red;
+  opacity: 0.6;
+  font-size: 17px;
+}
+
 .user-component__title--not-bold {
   font-weight: 400;
 }
