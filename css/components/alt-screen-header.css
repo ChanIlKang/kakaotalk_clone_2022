@@ -12,9 +12,9 @@
 }
 
 .alt-header__column:first-child {
-  margin: 0 auto;
+  margin-right: auto;
 }
 
 .alt-header__column:last-child {
-  margin: 0 auto;
+  margin-left: auto;
 }
