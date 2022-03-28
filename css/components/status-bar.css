@@ -4,7 +4,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  padding: 5px 3px;
+  padding: 5px 10px;
   box-sizing: border-box;
 }
 
@@ -27,6 +27,6 @@
   align-items: center;
 }
 
-.status-bar__column .fa-battery-full {
+.status-bar__column .fa-battery-quarter {
   margin: 0px 5px;
 }
